@@ -1,7 +1,7 @@
-## Olá, Eu sou Raian Satyro!!!
+## Olá devs, Eu me chamo Raian Satyro!!!
 
 
-- 🔭 Hoje estou procurando uma oportunidade no mercado de devs
+- 🔭 Hoje estou procurando uma oportunidade no mercado de devs como estagiário.
 - 🌱 Estudando Engenharia de Software
 - 😄 Pronouns: ele/dele
 
