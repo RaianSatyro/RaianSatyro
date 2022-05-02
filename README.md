@@ -1,8 +1,10 @@
 ## Olá devs, Eu me chamo Raian Satyro!!!
 
 
-- 🔭 Hoje estou procurando uma oportunidade no mercado de devs como estagiário.
-- 🌱 Estudando Engenharia de Software
+- 🔭 Atualmente estou trabalhando como eletricista industrial, mas minha intenção é mudar de carreira muito em breve, estou procurando uma oportunidade. 
+- 🌱 Estudando Engenharia de Software e focando por enquanto no front end.
+- 🎮 Em meu tempo livre, gosto de jogar videogame (pc) e assistir séries e animes.
+- 🌐 Procure por mim em outras redes por @raiansatyro.
 - 😄 Pronouns: ele/dele
 
 
