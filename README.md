@@ -1,8 +1,8 @@
 ## Olá devs, Eu me chamo Raian Satyro!!!
 
 
-- 🔭 Atualmente estou trabalhando como eletricista industrial, mas minha intenção é mudar de carreira muito em breve, estou procurando uma oportunidade. 
-- 🌱 Estudando Engenharia de Software e focando por enquanto no front end.
+- 🔭 Atualmente estou trabalhando como Analista de sistemas na empresa oggi sorvetes, dando suporte e desenvolvendo melhorias no sistema protheus. 
+- 🌱 Estudando Engenharia de Software e trabalhando com back-end com a linguagem ADVPL da TOTVS, e estudando criação de telas com a biblioteca PO-UI.
 - 🎮 Em meu tempo livre, gosto de jogar videogame (pc) e assistir séries e animes.
 - 🌐 Procure por mim em outras redes por @raiansatyro.
 - 😄 Pronouns: ele/dele
